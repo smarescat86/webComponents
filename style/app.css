@@ -1,0 +1,29 @@
+body {
+    display: flex;
+    justify-content: center;
+}
+
+.btn-style {
+    border: 5px solid;
+    border-radius: 2px;
+    color: #ff0000;
+    
+}
+
+.card {
+    width: 100%;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border-radius: 5px;
+    text-align: center;
+    margin: 20px;
+}
+
+table{
+    width: 100%;
+    padding: 10px;
+}
+
+#total {
+    margin: 15px 15px 15px 15px;
+}
